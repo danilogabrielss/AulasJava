@@ -520,3 +520,10 @@ MigrationBackup/
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 
 # End of https://www.gitignore.io/api/csharp,visualstudio,visualstudiocode
+/SuperCalculadora/nbproject/private/
+/SuperCalculadora/build/
+/Aula2/nbproject/private/
+/Aula2/build/
+/PooAula2/nbproject/private/
+/PooAula2/build/
+/PooAula2Ex2/nbproject/private/

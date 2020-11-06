@@ -136,8 +136,7 @@ public class telaIdade extends javax.swing.JFrame {
         lblIdade.setText(Integer.toString(id));
         Calendar year = Calendar.getInstance();
         int ano = year.get(Calendar.YEAR);
-        lblAnoAtual.setText(Integer.toString(ano));
-                
+        lblAnoAtual.setText(Integer.toString(ano));                
     }//GEN-LAST:event_btnCalcActionPerformed
 
     /**
